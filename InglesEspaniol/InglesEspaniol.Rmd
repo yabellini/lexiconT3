@@ -255,7 +255,7 @@ extrinsic-motivationextrinsic motivation.
 
 ## J
 
-**Jugyokenkyu Literally ``lesson study,'' a set of
+**Jugyokenkyu**: Literally ``lesson study,'' a set of
 practices that includes having teachers routinely observe one another and
 discuss lessons to share knowledge and improve skills.
 
@@ -264,23 +264,22 @@ discuss lessons to share knowledge and improve skills.
 
 ## L
 
-**Learned helplessness A situation in which
+**Learned helplessness**: A situation in which
 people who are repeatedly subjected to negative feedback that they have no way
 to escape learn not to even try to escape when they could.
 
 **Learner persona**: persona tipo. 
 
-**Learning Management System (LMS): An application for tracking course
+**Learning Management System (LMS)**: An application for tracking course
 enrollment, exercise submissions, grades, and other bureaucratic aspects of
 formal classroom learning.
 
-**Learning objective What a lesson is trying to
+**Learning objective**: What a lesson is trying to
 achieve.
 
-**Learning outcome What a lesson actually achieves.
+**Learning outcome**: What a lesson actually achieves.
 
-**Legitimate peripheral
-  participation Newcomers' participation in simple, low-risk tasks that a
+**Legitimate peripheral participation**: Newcomers' participation in simple, low-risk tasks that a
 community of practice recognizes as valid contributions.
 
 **Live coding**: programación en vivo. 
@@ -312,69 +311,63 @@ answered).
 
 ## N
 
-near-transferNear transfer transfer-of-learningTransfer of learning
+**Near transfer**: Transfer of learning
 between closely-related domains, e.g.\ improvement in understanding of decimals
 as a result of doing exercises with fractions.
 
-notional-machineNotional machine A general, simplified model of how
+**Notional machine**: A general, simplified model of how
 a particular family of programs executes.
 
-noviceNovice Someone who has not yet built a usable mental model of
-a domain. See also competent-practitionercompetent practitioner
-and expertexpert.
+**Novice**: novatos/as, personas novatas. Ver también _competent practitioner_
+y _expert_.
 
 
 ## Ñ
 
 ## O
 
-objects-firstObjects first An approach to teaching programming in
+**Objects first**: An approach to teaching programming in
 which objects and classes are introduced early.
 
 
 
 ## P
-pair-programmingPair programming A software development practice in
+**Pair programming**: A software development practice in
 which two programmers share one computer. One programmer (the driver) does the
 typing, while the other (the navigator) offers comments and suggestions in real
 time. Pair programming is often used as a teaching practice in programming
 classes.
 
-parsons-problemParsons Problem An assessment technique developed by
+**Parsons Problem**: An assessment technique developed by
 Dale Parsons and others in which learners rearrange given material to construct
-a correct answer to a question~\citePars2006.
+a correct answer to a question.
 
-passive-learningPassive learning An approach to instruction in which
+**Passive learning** An approach to instruction in which
 learners read, listen, or watch without immediately using new knowledge.
 Passive learning is less effective than active-learningactive
 learning.
 
-passive-teachingPassive teaching An approach to instruction in which
+**Passive teaching**: An approach to instruction in which
 the teacher does not adjust pace or examples, or otherwise act on feedback from
 learners, during the lesson.  See also active-teachingactive
 teaching.
 
-pedagogical-content-knowledgePedagogical content knowledge (PCK)
-The understanding of how to teach a particular subject, i.e.\ the best order in
-which to introduce topics and what examples to use. See also
-content-knowledgecontent knowledge
-and general-pedagogical-knowledgegeneral pedagogical knowledge.
+**Pedagogical content knowledge (PCK)**: The understanding of how to teach a particular subject, i.e.\ the best order in which to introduce topics and what examples to use. Ver también _content knowledge_ y _general pedagogical knowledge_.
 
-peer-instructionPeer instruction A teaching method in which an
+**Peer instruction**: A teaching method in which an
 teacher poses a question and then learners commit to a first answer, discuss
 answers with their peers, and commit to a (revised) answer.
 
 **Persistent memory**: ver _long-term memory_.
 
-personalized-learningPersonalized learning Automatically tailoring
+**Personalized learning**: Automatically tailoring
 lessons to meet the needs of individual learners.
 
-plausible-distractorPlausible distractor A wrong or less-than-best
-answer to a multiple-choice question that looks like it could be right. See also
-diagnostic-powerdiagnostic power.
+**Plausible distractor**: A wrong or less-than-best
+answer to a multiple-choice question that looks like it could be right. Ver también
+_diagnostic power_.
 
-positioningPositioning What sets one brand apart from other,
-similar brands.
+**Positioning**: Posicionamiento 
 
 preparatory-privilegePreparatory privilege The advantage of coming
 from a background that provides more preparation for a particular learning task
@@ -427,10 +420,10 @@ community-of-practicecommunity of practice.
 
 **Split-attention effect**:  efecto de atención dividida.
 
-stereotype-threatStereotype threat A situation in which people feel
+**Stereotype threat**: A situation in which people feel
 that they are at risk of being held to stereotypes of their social group.
 
-subgoal-labelingSubgoal labeling Giving names to the steps in a
+**Subgoal labeling**: Giving names to the steps in a
 step-by-step description of a problem-solving process.
 
 **Summative assessment**: Evaluación sumativa
@@ -479,7 +472,7 @@ by moment or line by line what to add to a program next.
 
 ## W
 
-working-memoryWorking memory see short-term-memoryshort-term memory.
+**Working memory**: ver _short-term memory_.
 
 zpdZone of Proximal Development (ZPD) Includes the set of problems that
 people cannot yet solve on their own but are able to solve with assistance from
