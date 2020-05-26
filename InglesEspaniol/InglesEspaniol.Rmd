@@ -34,9 +34,9 @@ to internal mental states or other unobservables. Ver también _cognitivism_.
 
 **Bloom's Taxonomy**: Taxonomía de Bloom. Ver también _Fink's Taxonomy_.
 
-**bournout. bourning out**: síndrome de desgaste ocupacional. (Agregada)
+**Bournout. Bourning out**: síndrome de desgaste ocupacional. (Agregada)
 
-**Brand**: marca. 
+**Brand**: Marca. 
 
 ## C
 
@@ -46,7 +46,7 @@ allowed to review their peers' work.
 
 **Chunking**: Chunking. 
 
-**Co-teaching**: co-enseñanza. 
+**Co-teaching**: Co-enseñanza. 
 
 **Cognitive apprenticeship**: A theory of
 learning that emphasizes the process of a master passing on skills and insights
@@ -70,9 +70,7 @@ _novice_ y _expert_.
 
 **Computational thinking**: Pensamiento computacional.
 
-**Concept inventory**: A test designed to determine
-how well a learner understands a domain.  Unlike most instructor-authored tests,
-concept inventories are based on extensive research and validation.
+**Concept inventory**: A test designed to determine how well a learner understands a domain.  Unlike most instructor-authored tests, concept inventories are based on extensive research and validation.
 
 **Concept map**: Mapa conceptual.
 
@@ -80,16 +78,11 @@ concept inventories are based on extensive research and validation.
 
 **Constructivism**: Constructivismo.
 
-**Content knowledge**: A person's understanding of a
-subject. Ver también _general pedagogical knowledge_
-y _pedagogical content knowledge_.
+**Content knowledge**: A person's understanding of a subject. Ver también _general pedagogical knowledge_ y _pedagogical content knowledge_.
 
-**Contributing student pedagogy**: Having learners
-produce artifacts to contribute to others' learning.
+**Contributing student pedagogy**: Having learners produce artifacts to contribute to others' learning.
 
-**Conversational programmer**: Someone who
-needs to know enough about computing to have a meaningful conversation with a
-programmer, but isn't going to program themselves.
+**Conversational programmer**: Someone who needs to know enough about computing to have a meaningful conversation with a programmer, but isn't going to program themselves.
 
 **CS Unplugged**: A style of teaching that introduces
 computing concepts using non-programming examples and artifacts.
@@ -114,7 +107,7 @@ learn new teaching techniques.
 
 **Diagnostic power**: Poder de diagnóstico. 
 
-**Direct instruction**: instrucción directa, enseñanza directa. 
+**Direct instruction**: Instrucción directa. Enseñanza directa. 
 
 **Dunning-Kruger effect**: Efecto Dunning-Kruger.
 
@@ -142,14 +135,14 @@ institutional classrooms.
 
 **Expert**: Experto. Ver también _competent practitioner_ y _novice_.
 
-**Expert blind spot**: punto ciego del experto.
+**Expert blind spot**: Punto ciego del experto.
 
-**Expertise reversal effect**: efecto inverso de la experiencia.
+**Expertise reversal effect**: Efecto inverso de la experiencia (debe ser revisada).
 
 **Externalized cognition:** The use of graphical,
 physical, or verbal aids to augment thinking.
 
-**Extraneous load**: carga extrínseca.
+**Extraneous load**: Carga extrínseca.
 
 **Extrinsic motivation**: Motivación extrínseca. Ver también _intrinsic motivation_.
 
@@ -168,7 +161,7 @@ of playing chess.
 **Fink's Taxonomy**: Taxonomía de Fink. Ver también _Bloom's Taxonomy_.
 
 **Fixed mindset**: The belief that an ability is innate,
-and that failure is due to a lack of some necessary attribute. See also
+and that failure is due to a lack of some necessary attribute. Ver también
 growth-mindsetgrowth mindset.
 
 **Flipped classroom**: One in which learners watch
@@ -198,9 +191,8 @@ generating and submitting random data.
 ## G
 
 **General pedagogical knowledge**: A
-person's understanding of the general principles of teaching. See also
-content-knowledgecontent knowledge
-and pedagogical-content-knowledgepedagogical content knowledge.
+person's understanding of the general principles of teaching. Ver también _content knowledge_
+y _pedagogical content knowledge_.
 
 **Germane load**: carga pertinente.
 
@@ -208,7 +200,7 @@ and pedagogical-content-knowledgepedagogical content knowledge.
 to hire, monitor, and if need be, fire the director.
 
 **Growth mindset**: The belief that ability comes with
-practice. See also fixed-mindsetfixed mindset.
+practice. Ver también _fixed mindset_.
 
 **Guided notes**: Teacher-prepared notes that cue
 learners to respond to key information in a lecture or discussion.
@@ -240,15 +232,15 @@ allowing learners to ask their own questions, set their own goals, and find
 their own path through a subject.
 
 **Instructional design**: The craft of creating and
-evaluating specific lessons for specific audiences. See also
-educational-psychologyeducational psychology.
+evaluating specific lessons for specific audiences. Ver también 
+_educational psychology._
 
-**Intrinsic load**: The cognitive-loadcognitive load
+**Intrinsic load**: The cognitive load
 required to absorb new information.
 
 **Intrinsic motivation**: Being driven by enjoyment
-of a task or the satisfaction of doing it for its own sake.  See also
-extrinsic-motivationextrinsic motivation.
+of a task or the satisfaction of doing it for its own sake.  Ver también
+_extrinsic motivation._
 
 **Intuition**: Intuición. 
 
@@ -297,7 +289,7 @@ community of practice recognizes as valid contributions.
 
 **Mental model**: Modelo mental.
 
-**Metacognition**: Thinking about thinking.
+**Metacognition**: Metacognición.
 
 **Minimal manual**: An approach to training that breaks
 every task into single-page instructions that also explain how to diagnose and
@@ -329,8 +321,6 @@ y _expert_.
 **Objects first**: An approach to teaching programming in
 which objects and classes are introduced early.
 
-
-
 ## P
 **Pair programming**: A software development practice in
 which two programmers share one computer. One programmer (the driver) does the
@@ -342,15 +332,9 @@ classes.
 Dale Parsons and others in which learners rearrange given material to construct
 a correct answer to a question.
 
-**Passive learning** An approach to instruction in which
-learners read, listen, or watch without immediately using new knowledge.
-Passive learning is less effective than active-learningactive
-learning.
+**Passive learning** Aprendizaje pasivo.
 
-**Passive teaching**: An approach to instruction in which
-the teacher does not adjust pace or examples, or otherwise act on feedback from
-learners, during the lesson.  See also active-teachingactive
-teaching.
+**Passive teaching**: Enseñanza pasiva.
 
 **Pedagogical content knowledge (PCK)**: The understanding of how to teach a particular subject, i.e.\ the best order in which to introduce topics and what examples to use. Ver también _content knowledge_ y _general pedagogical knowledge_.
 
@@ -376,9 +360,9 @@ than others.
 **Productive failure**: A situation in which learners
 are deliberately given problems that can't be solved with the knowledge they
 have and must go out and acquire new information in order to make progress.
-See also zpdZone of Proximal Development.
+Ver también _Zone of Proximal Development_.
 
-*Pull request**: Pull request. 
+**Pull request**: Pull request. 
 
 ## Q
 
@@ -390,8 +374,7 @@ See also zpdZone of Proximal Development.
 the learner covers up key facts or terms during a first pass through material,
 then checks their recall on a second pass.
 
-**Reflective practice**:
-See deliberate-practicedeliberate practice.
+**Reflective practice**: Ver _deliberate practice._
 
 **Reusability Paradox**: Holds that the more reusable
 part of a lesson is, the less pedagogically effective it is.
@@ -409,11 +392,11 @@ to, search engines.
 **Service board**: A board whose members take on working roles
 in the organization.
 
-**Short-term memory**: memoria de corto plazo.
+**Short-term memory**: Memoria de corto plazo.
 
-**Situated learning**: aprendizaje situado
+**Situated learning**: Aprendizaje situado.
 
-**Split-attention effect**:  efecto de atención dividida.
+**Split-attention effect**:  Efecto de atención dividida.
 
 **Stereotype threat**: A situation in which people feel
 that they are at risk of being held to stereotypes of their social group.
@@ -421,7 +404,7 @@ that they are at risk of being held to stereotypes of their social group.
 **Subgoal labeling**: Giving names to the steps in a
 step-by-step description of a problem-solving process.
 
-**Summative assessment**: Evaluación sumativa
+**Summative assessment**: Evaluación sumativa.
 
 
 ## T
@@ -445,7 +428,7 @@ partner to pool ideas, and then have one person from each pair present to the
 whole group.
 
 **Transfer of learning**: Applying knowledge learned
-in one context to problems in another context.  See also
+in one context to problems in another context.  Ver también
 near-transfernear transfer and far-transferfar transfer.
 
 **Transfer-appropriate processing**: The
@@ -455,7 +438,8 @@ used in testing.
 **Tutorial**: Tutorial.
 
 **Twitch coding**: Having a group of people decide moment
-by moment or line by line what to add to a [program next]\@ref(zpd).
+by moment or line by line what to add to a program next.
+
 
 
 ## U
@@ -464,13 +448,7 @@ by moment or line by line what to add to a [program next]\@ref(zpd).
 
 ## W
 
-**Working memory**: ver _short-term memory_.
-
-(\#zdp) Zone of Proximal Development (ZPD) Includes the set of problems that
-people cannot yet solve on their own but are able to solve with assistance from
-a more experienced mentor.  See also productive-failureproductive
-failure.
-
+**Working memory**: Ver _short-term memory_.
 
 
 ## X
@@ -478,3 +456,8 @@ failure.
 ## Y
 
 ## Z
+
+**Zone of Proximal Development (ZPD)**: Includes the set of problems that
+people cannot yet solve on their own but are able to solve with assistance from
+a more experienced mentor.  Ver también _productive failure._
+
