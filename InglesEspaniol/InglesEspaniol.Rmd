@@ -369,19 +369,16 @@ _diagnostic power_.
 
 **Positioning**: Posicionamiento 
 
-preparatory-privilegePreparatory privilege The advantage of coming
+**Preparatory privilege**: The advantage of coming
 from a background that provides more preparation for a particular learning task
 than others.
 
-productive-failureProductive failure A situation in which learners
+**Productive failure**: A situation in which learners
 are deliberately given problems that can't be solved with the knowledge they
 have and must go out and acquire new information in order to make progress.
 See also zpdZone of Proximal Development.
 
-pull-requestPull request A set of proposed changes to a GitHub
-repository that can be reviewed, updated, and eventually merged.
-
-
+*Pull request**: Pull request. 
 
 ## Q
 
@@ -389,34 +386,32 @@ repository that can be reviewed, updated, and eventually merged.
 
 ## R
 
-read-cover-retrieveRead-cover-retrieve A study practice in which
+**Read-cover-retrieve**: A study practice in which
 the learner covers up key facts or terms during a first pass through material,
 then checks their recall on a second pass.
 
-reflective-practiceReflective practice
+**Reflective practice**:
 See deliberate-practicedeliberate practice.
 
-reusability-paradoxReusability Paradox Holds that the more reusable
+**Reusability Paradox**: Holds that the more reusable
 part of a lesson is, the less pedagogically effective it is.
 
 
 ## S
 
-scaffoldingScaffolding Extra material provided to early-stage
+**Scaffolding**: Extra material provided to early-stage
 learners to help them solve problems.
 
-seoSearch engine optimization Increasing the quantity and quality
+**Search engine optimization**: Increasing the quantity and quality
 of web site traffic by making pages more easily found by, or seem more important
 to, search engines.
 
-service-boardService board A board whose members take on working roles
+**Service board**: A board whose members take on working roles
 in the organization.
 
 **Short-term memory**: memoria de corto plazo.
 
-situated-learningSituated learning A model of learning that focuses
-on people's transition from being newcomers to be accepted members of a
-community-of-practicecommunity of practice.
+**Situated learning**: aprendizaje situado
 
 **Split-attention effect**:  efecto de atención dividida.
 
@@ -449,32 +444,29 @@ each person thinks individually about a question or problem, then pairs with a
 partner to pool ideas, and then have one person from each pair present to the
 whole group.
 
-transfer-of-learningTransfer of learning Applying knowledge learned
+**Transfer of learning**: Applying knowledge learned
 in one context to problems in another context.  See also
 near-transfernear transfer and far-transferfar transfer.
 
-transfer-appropriate-processingTransfer-appropriate processing The
+**Transfer-appropriate processing**: The
 improvement in recall that occurs when practice uses activities similar to those
 used in testing.
 
-tutorialTutorial A lesson intended to help someone improve their
-general understanding of a subject.
+**Tutorial**: Tutorial.
 
-twitch-codingTwitch coding Having a group of people decide moment
-by moment or line by line what to add to a program next.
+**Twitch coding**: Having a group of people decide moment
+by moment or line by line what to add to a [program next]\@ref(zpd).
 
 
 ## U
 
 ## V
 
-
-
 ## W
 
 **Working memory**: ver _short-term memory_.
 
-zpdZone of Proximal Development (ZPD) Includes the set of problems that
+(\#zdp) Zone of Proximal Development (ZPD) Includes the set of problems that
 people cannot yet solve on their own but are able to solve with assistance from
 a more experienced mentor.  See also productive-failureproductive
 failure.
